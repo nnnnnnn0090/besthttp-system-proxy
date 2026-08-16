@@ -85,4 +85,4 @@ re-zip preserving symlinks. The input IPA is never modified.
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
