@@ -81,4 +81,5 @@ python3 tools/pack_ipa.py MyGame.ipa --output out/MyGame_proxy.ipa --no-sign
 
 ## ライセンス
 
-MIT
+MIT — 詳細は [LICENSE](LICENSE) を参照。
+
